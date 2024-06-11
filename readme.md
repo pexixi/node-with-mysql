@@ -4,7 +4,7 @@
 ##### Fetching the Repository
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/pexixi/node-with-mysql.git
 ```
 
 ##### CD ins Repository
